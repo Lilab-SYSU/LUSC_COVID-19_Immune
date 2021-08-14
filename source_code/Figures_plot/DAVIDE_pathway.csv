@@ -1,0 +1,35 @@
+﻿class,DISEASE_GOTERM_PATHWAY,detail,score,Pvalue,Benjamini
+DISEASE,GAD_DISEASE_CLASS,IMMUNE,82,0.00000012,0.00000075
+DISEASE,GAD_DISEASE_CLASS,CARDIOVASCULAR,104,0.00000031,0.0000014
+DISEASE,GAD_DISEASE_CLASS,CANCER,81,0.0000049,0.000018
+DISEASE,GAD_DISEASE_CLASS,NEUROLOGICAL,63,0.0059,0.0074
+DISEASE,GAD_DISEASE_CLASS,INFECTION,47,0.021,0.024
+GO_TERM,GOTERM_BP_DIRECT,inflammatory response,31,1E-14,1.5E-11
+GO_TERM,GOTERM_BP_DIRECT,immune response,22,0.00000041,0.00015
+GO_TERM,GOTERM_BP_DIRECT,cell adhesion,21,0.0000062,0.0015
+GO_TERM,GOTERM_BP_DIRECT,cellular response to interferon-gamma,8,0.000013,0.0024
+GO_TERM,GOTERM_BP_DIRECT,cellular response to tumor necrosis factor,10,0.000022,0.0035
+GO_TERM,GOTERM_BP_DIRECT,cellular response to interleukin-1,8,0.000055,0.0081
+GO_TERM,GOTERM_BP_DIRECT,positive regulation of inflammatory response,8,0.000066,0.0088
+GO_TERM,GOTERM_BP_DIRECT,innate immune response,18,0.0001,0.012
+GO_TERM,GOTERM_BP_DIRECT,lymphocyte chemotaxis,5,0.00056,0.046
+GO_TERM,GOTERM_BP_DIRECT,cell chemotaxis,6,0.002,0.13
+GO_TERM,GOTERM_BP_DIRECT,neutrophil chemotaxis,6,0.0022,0.13
+GO_TERM,GOTERM_BP_DIRECT,monocyte chemotaxis,5,0.0026,0.15
+GO_TERM,GOTERM_BP_DIRECT,negative regulation of neuron apoptotic process,7,0.01,0.41
+GO_TERM,GOTERM_BP_DIRECT,negative regulation of extrinsic apoptotic signaling pathway via death domain receptors,4,0.01,0.41
+GO_TERM,GOTERM_BP_DIRECT,positive regulation of chemotaxis,3,0.011,0.41
+GO_TERM,GOTERM_BP_DIRECT,negative regulation of T cell proliferation,4,0.014,0.42
+GO_TERM,GOTERM_BP_DIRECT,negative regulation of cell proliferation,12,0.022,0.56
+GO_TERM,GOTERM_BP_DIRECT,T cell activation,4,0.027,0.64
+GO_TERM,GOTERM_BP_DIRECT,cytokine production,3,0.046,0.81
+GO_TERM,GOTERM_MF_DIRECT,chemokine activity,6,0.0004,0.037
+GO_TERM,GOTERM_MF_DIRECT,receptor activity,11,0.00051,0.037
+GO_TERM,GOTERM_MF_DIRECT,chemokine receptor activity,3,0.02,0.51
+PATHWAY,KEGG_PATHWAY,Cytokine-cytokine receptor interaction,16,0.0000045,0.00075
+PATHWAY,KEGG_PATHWAY,Complement and coagulation cascades,8,0.000088,0.0049
+PATHWAY,KEGG_PATHWAY,Chemokine signaling pathway,11,0.00059,0.02
+PATHWAY,KEGG_PATHWAY,Leukocyte transendothelial migration,7,0.0088,0.16
+PATHWAY,KEGG_PATHWAY,NF-kappa B signaling pathway,6,0.011,0.16
+PATHWAY,KEGG_PATHWAY,PI3K-Akt signaling pathway,12,0.018,0.21
+PATHWAY,KEGG_PATHWAY,Pathways in cancer,12,0.041,0.46

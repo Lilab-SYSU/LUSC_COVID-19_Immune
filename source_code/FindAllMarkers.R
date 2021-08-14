@@ -1,0 +1,5 @@
+library(Seurat)
+COVIDRunner.integrated <- readRDS("COVIDRunner.integrated_lastest_version.RDS")
+sce.markers <- FindAllMarkers(COVIDRunner.integrated, only.pos = TRUE, min.pct = 0.25, logfc.threshold = 0.25)
+saveRDS(sce.markers,file="sce.markers.RDS")
+write.table(as.data.frame(sce.markers),file="clusters_markers.xls",sep="\t",quote = F)
